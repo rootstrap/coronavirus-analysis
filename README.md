@@ -7,3 +7,4 @@ This project contains different analysis of coronavirus data.
 - italy.ipynb: Visualize Italy data 
 - Coronavirus.ipynb: Analyze globally data
 
+For more information check [this](https://www.rootstrap.com/blog/coronavirus-behavior-in-france-and-south-korea/) post. 
